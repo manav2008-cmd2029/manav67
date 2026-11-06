@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Manav M — computer science and AI & machine learning student at SRM University, Ramapuram."
+    />
+    <meta name="theme-color" content="#f5e9d6" />
+    <title>Manav M — Portfolio</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#slide-1">Skip to portfolio</a>
+
+    <header class="site-header">
+      <a class="wordmark" href="#slide-1" aria-label="Manav M, first slide">
+        <span class="wordmark-mark" aria-hidden="true">M</span>
+        <span>MANAV M<span class="wordmark-period">.</span></span>
+      </a>
+      <p class="header-note">Portfolio <span aria-hidden="true">/</span> 2026</p>
+    </header>
+
+    <main class="portfolio" id="portfolio">
+      <div class="slides" id="slides" aria-label="Portfolio slides" tabindex="0">
+        <section class="slide slide-hero" id="slide-1" aria-labelledby="hero-title" data-slide="0">
+          <div class="slide-inner hero-layout">
+            <div class="hero-copy">
+              <p class="eyebrow"><span class="status-dot" aria-hidden="true"></span> STUDENT · BUILDER · STRATEGIST</p>
+              <h1 id="hero-title">Hello,<br />I’m <span class="accent-text">Manav M.</span></h1>
+              <p class="hero-subtitle">18-year-old B.Tech student exploring the world of computer science, AI and machine learning.</p>
+              <a class="button button-primary" href="#slide-2" data-go-to="1">Get to know me <span aria-hidden="true">↗</span></a>
+            </div>
+            <div class="hero-art" aria-label="Decorative chess-inspired graphic">
+              <div class="hero-art-label">THINK<br />AHEAD<span>_</span></div>
+              <div class="chess-orbit orbit-one"></div>
+              <div class="chess-orbit orbit-two"></div>
+              <div class="hero-piece" aria-hidden="true">♞</div>
+              <div class="hero-coordinate">13°01′N<br />80°11′E</div>
+              <div class="hero-stamp">M<br /><span>01</span></div>
+            </div>
+            <p class="side-note">A curious mind, one move at a time.</p>
+          </div>
+        </section>
+
+        <section class="slide" id="slide-2" aria-labelledby="about-title" data-slide="1">
+          <div class="slide-inner about-layout">
+            <div class="section-heading">
+              <p class="eyebrow">01 — ABOUT & INTEREST</p>
+              <h2 id="about-title">Curious by<br />nature<span class="accent-text">.</span></h2>
+            </div>
+            <div class="about-content">
+              <article class="feature-card">
+                <span class="card-index">A / 01</span>
+                <h3>Learning how intelligence works.</h3>
+                <p>I’m drawn to AI because it brings together logic, data and creative problem-solving. I want to understand how machine learning systems learn, keep building my foundations, and explore ways to make AI useful in everyday life.</p>
+              </article>
+              <article class="feature-card feature-card-accent">
+                <span class="card-index">A / 02</span>
+                <h3>Built for the long game.</h3>
+                <p>As a computer science student focused on AI and machine learning, I’m taking things one concept at a time—staying curious, asking questions and learning by doing.</p>
+              </article>
+              <p class="about-tag">CURRENTLY STUDYING <strong>CS + AI / ML</strong></p>
+            </div>
+          </div>
+        </section>
+
+        <section class="slide" id="slide-3" aria-labelledby="education-title" data-slide="2">
+          <div class="slide-inner education-layout">
+            <div class="section-heading">
+              <p class="eyebrow">02 — EDUCATION</p>
+              <h2 id="education-title">Learning<br />in progress<span class="accent-text">.</span></h2>
+              <p class="section-intro">Each step has helped build the foundation I’m growing from today.</p>
+            </div>
+            <div class="timeline">
+              <article class="timeline-card current-card">
+                <div class="timeline-marker" aria-hidden="true">01</div>
+                <div>
+                  <p class="timeline-label">CURRENTLY</p>
+                  <h3>SRM University, Ramapuram</h3>
+                  <p>B.Tech in Computer Science Engineering, with a focus on Artificial Intelligence and Machine Learning.</p>
+                </div>
+                <span class="timeline-arrow" aria-hidden="true">↗</span>
+              </article>
+              <article class="timeline-card">
+                <div class="timeline-marker" aria-hidden="true">02</div>
+                <div>
+                  <p class="timeline-label">SCHOOL</p>
+                  <h3>St. John’s Matriculation Higher Secondary School</h3>
+                  <p>Completed my schooling in Chennai, building a strong base for the next chapter.</p>
+                </div>
+                <span class="timeline-arrow" aria-hidden="true">↗</span>
+              </article>
+              <div class="score-row" aria-label="School results">
+                <div class="score-card"><span>CLASS 10</span><strong>80<small>%</small></strong></div>
+                <div class="score-card"><span>CLASS 12</span><strong>75<small>%</small></strong></div>
+                <p>Steady progress, with plenty more to learn.</p>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="slide" id="slide-4" aria-labelledby="skills-title" data-slide="3">
+          <div class="slide-inner skills-layout">
+            <div class="skills-heading-row">
+              <div class="section-heading">
+                <p class="eyebrow">03 — SKILL SET</p>
+                <h2 id="skills-title">Things I bring<span class="accent-text">.</span></h2>
+              </div>
+              <p class="section-intro">A mix of people skills and programming foundations I’m growing every day.</p>
+            </div>
+            <div class="skill-grid">
+              <article class="skill-card"><span>01</span><h3>Communication</h3><p>Share ideas clearly and listen with care.</p></article>
+              <article class="skill-card"><span>02</span><h3>Adaptability</h3><p>Adjust to new situations and keep learning.</p></article>
+              <article class="skill-card"><span>03</span><h3>Teamwork</h3><p>Work together, contribute and learn from others.</p></article>
+              <article class="skill-card"><span>04</span><h3>Leadership</h3><p>Take initiative and help a team move forward.</p></article>
+              <article class="skill-card"><span>05</span><h3>Time management</h3><p>Plan tasks and make good use of my time.</p></article>
+              <article class="skill-card"><span>06</span><h3>Hard + smart work</h3><p>Put in consistent effort and look for thoughtful ways to solve problems.</p></article>
+              <article class="skill-card skill-card-code"><span>07</span><h3>C programming</h3><p>Building a foundation in programming logic and problem-solving.</p><b aria-hidden="true">{ }</b></article>
+              <article class="skill-card skill-card-code"><span>08</span><h3>Python</h3><p>Learning to write clear code and explore practical ideas.</p><b aria-hidden="true">&lt;/&gt;</b></article>
+            </div>
+          </div>
+        </section>
+
+        <section class="slide slide-chess" id="slide-5" aria-labelledby="chess-title" data-slide="4">
+          <div class="slide-inner chess-layout">
+            <div class="chess-copy">
+              <p class="eyebrow">04 — OUTSIDE THE CLASSROOM</p>
+              <h2 id="chess-title">One more<br />move<span class="accent-text">.</span></h2>
+              <p class="chess-lead">Chess is more than a hobby for me—it’s a way to think.</p>
+              <p>It teaches me to be patient, look ahead and stay open to a new plan when the board changes. I enjoy the quiet focus of a good game and the chance to learn from every move, win or lose.</p>
+              <div class="chess-traits"><span>FOCUS</span><span>PATIENCE</span><span>STRATEGY</span></div>
+            </div>
+            <div class="board-wrap" aria-label="Decorative chessboard illustration">
+              <div class="board-caption">THINKING IN<br />POSSIBILITIES</div>
+              <div class="chessboard" aria-hidden="true">
+                <span>♜</span><i></i><span>♝</span><i></i><i></i><span>♚</span><i></i><span>♜</span>
+                <i></i><span>♟</span><i></i><span>♟</span><span>♟</span><i></i><span>♟</span><i></i>
+                <span>♞</span><i></i><span>♟</span><i></i><i></i><span>♟</span><i></i><i></i>
+                <i></i><span>♙</span><i></i><i></i><span>♙</span><i></i><i></i><span>♙</span>
+                <i></i><i></i><span>♘</span><i></i><i></i><span>♙</span><i></i><i></i>
+                <span>♙</span><i></i><i></i><span>♕</span><i></i><i></i><i></i><i></i>
+                <i></i><span>♙</span><i></i><i></i><span>♙</span><span>♙</span><span>♙</span><i></i>
+                <span>♖</span><i></i><i></i><i></i><i></i><span>♔</span><i></i><span>♖</span>
+              </div>
+              <p class="board-note">PAUSE. PLAN. PLAY.</p>
+            </div>
+          </div>
+        </section>
+
+        <section class="slide slide-contact" id="slide-6" aria-labelledby="contact-title" data-slide="5">
+          <div class="slide-inner contact-layout">
+            <div class="contact-topline">
+              <p class="eyebrow">05 — SAY HELLO</p>
+              <span class="contact-number">LET’S CONNECT / 2026</span>
+            </div>
+            <div class="contact-main">
+              <div>
+                <h2 id="contact-title">Have a good<br />idea? <span class="accent-text">Let’s talk.</span></h2>
+                <p class="contact-copy">I’m always glad to connect, learn something new and talk about technology.</p>
+              </div>
+              <div class="contact-links">
+                <a class="contact-link" href="mailto:manavmurali487@gmail.com"><span>EMAIL</span><strong>manavmurali487@gmail.com</strong><b aria-hidden="true">↗</b></a>
+                <a class="contact-link" href="tel:+919025829927"><span>PHONE</span><strong>+91 90258 29927</strong><b aria-hidden="true">↗</b></a>
+              </div>
+            </div>
+            <footer class="contact-footer"><span>MANAV M. <span aria-hidden="true">©</span> 2026</span><span>MADE WITH CURIOSITY <b aria-hidden="true">✳</b></span></footer>
+            <div class="contact-shape" aria-hidden="true">M</div>
+          </div>
+        </section>
+      </div>
+    </main>
+
+    <nav class="slide-controls" aria-label="Slide navigation">
+      <button class="arrow-button" id="previous" type="button" aria-label="Previous slide" disabled><span aria-hidden="true">←</span><span class="arrow-label">BACK</span></button>
+      <div class="slide-dots" id="slide-dots" aria-label="Choose a slide">
+        <button type="button" aria-label="Slide 1: Introduction" aria-current="true" data-index="0"></button>
+        <button type="button" aria-label="Slide 2: About and AI interest" data-index="1"></button>
+        <button type="button" aria-label="Slide 3: Education" data-index="2"></button>
+        <button type="button" aria-label="Slide 4: Skills" data-index="3"></button>
+        <button type="button" aria-label="Slide 5: Chess" data-index="4"></button>
+        <button type="button" aria-label="Slide 6: Contact" data-index="5"></button>
+      </div>
+      <span class="slide-count" id="slide-count" aria-live="polite">01 <i>/</i> 06</span>
+      <button class="arrow-button" id="next" type="button" aria-label="Next slide"><span class="arrow-label">NEXT</span><span aria-hidden="true">→</span></button>
+    </nav>
+    <p class="keyboard-hint" aria-hidden="true">USE ← → KEYS OR SWIPE</p>
+  </body>
+</html>
